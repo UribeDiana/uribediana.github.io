@@ -23,12 +23,12 @@ repository               : "UribeDiana/uribediana.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profphoto.png"
   name             : "Diana Uribe"
   pronouns         : "she/her"  
   bio              : 
   location         : "El Paso, Texas"
-  employer         : "Univeristy of Texas- El Paso"
+  employer         : "University of Texas- El Paso"
   uri              : # URL
   email            : "duribe@miners.utep.edu" 
 
