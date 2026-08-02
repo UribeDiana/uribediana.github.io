@@ -23,7 +23,7 @@ repository               : "UribeDiana/uribediana.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profphoto.png"
+  avatar           : "profphoto.png"
   name             : "Diana Uribe"
   pronouns         : "she/her"  
   bio              : 
