@@ -46,10 +46,10 @@ author:
   scopus           : # URL
   zotero           : # URL
   links:
-    - label: "OSF"
+    - title: "OSF"
+      label: "OSF"
       icon: "fas fa-fw fa-folder-open"
       url: "https://osf.io/t4k9j/"
-
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
