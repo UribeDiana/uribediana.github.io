@@ -23,7 +23,7 @@ repository               : "UribeDiana/uribediana.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profphoto.jpg"
+  avatar           : "images/profphoto.jpg"
   name             : "Diana Uribe"
   pronouns         : "she/her"  
   bio              : 
@@ -46,9 +46,9 @@ author:
   scopus           : # URL
   zotero           : # URL
   links:
-    -label: "OSF"
-    icon: "fas fa-folder-open"
-    url: "https://osf.io/t4k9j/"
+    - label: "OSF"
+      icon: "fas fa-fw fa-folder-open"
+      url: "https://osf.io/t4k9j/"
 
 
   # Repositories and software development
