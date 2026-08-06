@@ -2,7 +2,7 @@
 title: "The impact of cross-language co-activation of cognates on bilingual performance on the reading span task"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-cognates-reading-span.md
+permalink: /publication/2025-cognates-reading-span
 date: 2025-02-04
 venue: 'Memory & Cognition'
 citation: 'Uribe, D., Schwartz, A.I. The impact of cross-language co-activation of cognates on bilingual performance on the reading span task. Mem Cogn 53, 1849–1864 (2025). https://doi.org/10.3758/s13421-025-01687-z'
