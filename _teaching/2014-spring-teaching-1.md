@@ -1,9 +1,8 @@
 ---
 title: "Research Methods in Psychology"
 collection: teaching
-type: "Lecturer"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+type: "Graduate Instructor"
+venue: "University of Texas - El Paso, Department of Psychology"
 date: "2022, 2024, 2025"
 ---
 
